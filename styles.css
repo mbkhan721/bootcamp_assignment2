@@ -1,0 +1,45 @@
+body {
+  background-color: grey;
+}
+/* topbar css ends */
+.head {
+  background: #020b11;
+  padding-bottom: 10;
+  color: #fefefe;
+}
+.assignment1 {
+  width: 50%;
+  align-items: center;
+}
+.city {
+  background: url('https://blog-www.pods.com/wp-content/uploads/2019/04/MG_1_1_New_York_City-1.jpg');
+  background-size: 50%;
+  background-position: left;
+}
+
+/* footer begins */
+
+.mobile-bottom-bar {
+  width: 100%;
+  height: 3.778rem;
+  background: #020b11;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.mobile-bottom-bar .footer-text {
+  position: relative;
+  top: 2px;
+  font-weight: bold;
+  font-size: 0.875rem;
+  color: #cfdfe9;
+}
+
+/*footer ends */
